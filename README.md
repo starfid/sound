@@ -40,6 +40,10 @@ Slide up
 Masukkan nomer
 ```
 ```
+7363616e
+Scan kartu
+```
+```
 6B656D62616C69
 Kembali
 ```
