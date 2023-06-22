@@ -29,7 +29,7 @@ Cek buku
 ```
 ```
 7066E6A616D
-Pinjam
+Meminjam
 ```
 ```
 6f70656e
@@ -45,5 +45,5 @@ Scan kartu
 ```
 ```
 6B656D62616C69
-Kembali
+Mengembalikan
 ```
