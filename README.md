@@ -47,3 +47,7 @@ Scan kartu
 6B656D62616C69
 Mengembalikan
 ```
+```
+E7EFDA
+Letakkan jari dimeja
+```
