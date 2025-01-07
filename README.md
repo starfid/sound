@@ -49,5 +49,5 @@ Mengembalikan
 ```
 ```
 E7EFDA
-Letakkan jari dimeja
+Letakkan jari diatas meja
 ```
